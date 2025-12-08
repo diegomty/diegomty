@@ -34,3 +34,10 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
