@@ -14,6 +14,14 @@
   </a>
 </p>
 
+💻 I am a professional passionate about Cybersecurity and Web Development  
+📚 I am currently studying a Bachelor’s Degree in Information Technologies and Cybersecurity at the Faculty of Informatics, UAQ  
+📝 I have a strong interest in information security, risk analysis, and incident response  
+🔐 Working on projects related to monitoring, asset protection, and secure practices  
+🌱 Continuously learning about Hardening, Digital Forensics, Pentesting, Wardriving, and secure development best practices  
+🌟 Main technologies: Python, JavaScript, React, SQL  
+🚩 Interested in Cybersecurity and Web Development roles, and in projects where I can contribute to the protection and improvement of systems  
+
 ---
 ### Languages and Tools 🛠 
 
@@ -41,3 +49,22 @@
 <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
 </div>
+
+---
+
+<!-- grph -->
+<div align="center">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegomty&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegomty&theme=vue"
+    />
+  </div>
+</div>
+
