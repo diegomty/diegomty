@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9C0&center=true&vCenter=true&width=720&lines=Cybersecurity+%26+Network+Defense+Engineer;Python+%2B+JavaScript+%2B+Three.js;Cisco+IOS+%C2%B7+EVE-NG+%C2%B7+NetFlow+%C2%B7+SSH+automation;Building+adaptive+digital+immunity+systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00D9C0&center=true&vCenter=true&width=720&lines=Cybersecurity+%26+Network+Defense+Engineer" />
   </a>
 </p>
 
@@ -30,33 +30,6 @@ aprendiendo:  [hardening, forensia digital, pentesting, wardriving,
 abierto_a:    [proyectos de ciberseguridad, roles de red defensiva,
                desarrollo web con enfoque en protección de sistemas]
 ```
-
----
-
-## <samp>Featured Project</samp>
-
-<table>
-<tr>
-<td width="40%" align="center">
-<a href="https://github.com/diegomty/Q-Sentinel">
-<img src="https://img.shields.io/badge/Q--Sentinel-Visualization%20Platform-00D9C0?style=for-the-badge&logo=cisco&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</a>
-</td>
-<td width="60%">
-<b>Plataforma SOC con Inmunidad Digital Adaptativa</b><br/><br/>
-Herramienta de defensa proactiva que detecta anomalías por <b>entropía de Shannon</b> sobre logs en tiempo real, aplica contramedidas autónomas vía <b>SSH a Cisco IOS</b>, y todo se opera desde un <b>digital twin 3D</b> de la red donde se puede tocar un departamento para aislar su VLAN al vuelo.
-<br/><br/>
-<sub>· Listeners syslog UDP/514 + NetFlow v9 UDP/2055 (parser propio)</sub><br/>
-<sub>· SHA-3-256 para integridad post-cuántica de la cadena forense</sub><br/>
-<sub>· Touch-to-isolate con raycaster Three.js → ACL Cisco vía Paramiko</sub><br/>
-<sub>· Persistencia SQLite WAL + timeseries chart + animación de flujos</sub>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -168,19 +141,19 @@ Herramienta de defensa proactiva que detecta anomalías por <b>entropía de Shan
 
 <div align="center">
 
-  <img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=diegomty&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00d9c0&icon_color=00d9c0&bg_color=0d1117" />
-  <img height="170" alt="Streak" src="https://streak-stats.demolab.com?user=diegomty&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9c0&ring=00d9c0&fire=f5c14b&currStreakLabel=00d9c0" />
+  <img height="180" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegomty&theme=tokyonight" />
+  <img height="180" alt="Streak" src="https://streak-stats.demolab.com?user=diegomty&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9c0&ring=00d9c0&fire=f5c14b&currStreakLabel=00d9c0" />
 
 </div>
 
 <div align="center">
-  <img height="160" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9c0&langs_count=8" />
-  <img height="160" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegomty&theme=tokyonight" />
+  <img height="170" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegomty&theme=tokyonight" />
+  <img height="170" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegomty&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img height="150" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegomty&theme=tokyonight" />
-  <img height="150" alt="languages graph" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diegomty&theme=tokyonight" />
+  <img height="170" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diegomty&theme=tokyonight" />
+  <img height="170" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diegomty&theme=tokyonight&utcOffset=-6" />
 </div>
 
 <div align="center">
