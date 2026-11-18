@@ -21,7 +21,7 @@
 ```yaml
 nombre:       Juan Diego Pérez Montoya
 rol:          Cybersecurity Engineer en formación
-estudios:     Lic. en Tecnologías de la Información y Ciberseguridad
+estudios:     Ing. en Tecnologías de la Información y Ciberseguridad
               Facultad de Informática · UAQ
 intereses:    [seguridad ofensiva, análisis de riesgos, respuesta a incidentes,
                visualización SOC, automatización de red]
